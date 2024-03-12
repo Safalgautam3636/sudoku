@@ -1,4 +1,5 @@
-import logo from "/sudoku-white-small.png";
+// Derek
+import logo from "../../assets/sudoku-white-small.png";
 
 // Free for personal and commercial use with attribution
 // www.flaticon.com/free-icon/sudoku_5190595
